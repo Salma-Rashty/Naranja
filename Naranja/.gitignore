@@ -1,3 +1,4 @@
+# Laravel application files
 *.log
 .DS_Store
 .env
